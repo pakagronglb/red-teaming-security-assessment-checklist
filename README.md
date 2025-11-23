@@ -1,7 +1,6 @@
 # Red Teaming Security Assessment Checklist
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-
-[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-greenchecklist/graphs/commit-activityd professional guide for adversarial security testing operations.** This document outlines a structured methodology that ensures all elements of red team operations are addressed, including scoping, reconnaissance, execution, analysis, and long-term improvement.[1]
+** This document outlines a structured methodology that ensures all elements of red team operations are addressed, including scoping, reconnaissance, execution, analysis, and long-term improvement.[1]
 
 ***
 
