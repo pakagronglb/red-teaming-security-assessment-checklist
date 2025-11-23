@@ -67,7 +67,7 @@ Establish the foundation of the security assessment, including roles, responsibi
 
 ### Phase 2: Strategic Preparation
 
-Define operational guidelines, methodologies, and constraints before execution:[1]
+Define operational guidelines, methodologies, and constraints before execution:
 
 - ✅ Formalize Rules of Engagement (RoE) document
 - ✅ Establish specific success criteria
