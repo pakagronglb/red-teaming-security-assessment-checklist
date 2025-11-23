@@ -1,6 +1,6 @@
 # Red Teaming Security Assessment Checklist
 
-** This document outlines a structured methodology that ensures all elements of red team operations are addressed, including scoping, reconnaissance, execution, analysis, and long-term improvement.[1]
+This document outlines a structured methodology that ensures all elements of red team operations are addressed, including scoping, reconnaissance, execution, analysis, and long-term improvement.
 
 ***
 
@@ -25,12 +25,12 @@
 
 ## 🎯 Overview
 
-Organisations face unprecedented cyber risks with global average breach costs reaching **$4.44 million** and U.S. breaches hitting a record **$10.22 million**. This checklist provides security teams with a structured roadmap for conducting simulated attack exercises that emulate real-world adversaries across cyber, physical, and human domains.[1]
+Organisations face unprecedented cyber risks with global average breach costs reaching **$4.44 million** and U.S. breaches hitting a record **$10.22 million**. This checklist provides security teams with a structured roadmap for conducting simulated attack exercises that emulate real-world adversaries across cyber, physical, and human domains.
 
 **The Red Teaming Security Assessment Checklist** helps organizations:
 
 - **Identify hidden vulnerabilities** before malicious actors do
-- **Reduce security incidents by 25%** and breach costs by 35%[1]
+- **Reduce security incidents by 25%** and breach costs by 35%
 - **Standardize testing processes** across multiple engagements
 - **Ensure compliance** with regulatory requirements
 - **Foster collaboration** between red, blue, and purple teams
@@ -39,22 +39,21 @@ Organisations face unprecedented cyber risks with global average breach costs re
 
 ## 🔴 Why Red Teaming Matters
 
-Unlike standard vulnerability scans, red teaming casts a wide net by mimicking real-world attackers across multiple attack vectors:[1]
+Unlike standard vulnerability scans, red teaming casts a wide net by mimicking real-world attackers across multiple attack vectors:
 
 - **Network intrusions** and infrastructure exploitation
 - **Physical access testing** and facility security assessments
 - **Social engineering campaigns** including phishing, vishing, and pretexting
 - **Adversary emulation** using real-world TTPs (Tactics, Techniques, and Procedures)
 
-Organizations with mature red team programs experience **64% fewer total security incidents** compared to those without structured testing programs.[1]
-
+Organizations with mature red team programs experience **64% fewer total security incidents** compared to those without structured testing programs.
 ***
 
 ## 📚 Checklist Components
 
 ### Phase 1: Foundational Preparation
 
-Establish the foundation of the security assessment, including roles, responsibilities, and methodologies:[1]
+Establish the foundation of the security assessment, including roles, responsibilities, and methodologies:
 
 - ✅ Define clear assessment boundaries (target systems, infrastructure, strategic goals)
 - ✅ Catalogue primary stakeholders across departments
@@ -81,7 +80,7 @@ Define operational guidelines, methodologies, and constraints before execution:[
 
 ### Phase 3: Active Operations
 
-Simulate real-world attacks while maintaining detailed documentation:[1]
+Simulate real-world attacks while maintaining detailed documentation:
 
 - ✅ Conduct comprehensive team orientation
 - ✅ Execute attack sequences with evidence capture
@@ -95,7 +94,7 @@ Simulate real-world attacks while maintaining detailed documentation:[1]
 
 ### Phase 4: Analysis & Remediation
 
-Document findings and develop actionable recommendations:[1]
+Document findings and develop actionable recommendations:
 
 - ✅ Facilitate internal team assessment discussions
 - ✅ Produce comprehensive findings report
@@ -108,7 +107,7 @@ Document findings and develop actionable recommendations:[1]
 
 ### Phase 5: Program Maturation & Continuous Enhancement
 
-Ensure ongoing enhancement of security assessment processes:[1]
+Ensure ongoing enhancement of security assessment processes:
 
 - ✅ Execute post-operation review sessions
 - ✅ Document lessons learned
@@ -124,7 +123,7 @@ Ensure ongoing enhancement of security assessment processes:[1]
 
 ## ⚠️ Common Pitfalls
 
-Avoid these critical mistakes in red teaming operations:[1]
+Avoid these critical mistakes in red teaming operations:
 
 1. **Omitting AI/ML model testing** - Modern AI systems have expanded attack surfaces that demand continuous security testing
 2. **Ignoring human error** - 95% of data breaches involve human mistakes; robust training and processes are essential
@@ -136,7 +135,7 @@ Avoid these critical mistakes in red teaming operations:[1]
 
 ## ✨ Key Benefits
 
-Using this checklist provides several advantages:[1]
+Using this checklist provides several advantages:
 
 - **Consistency** - Standardized processes ensure no critical steps are overlooked
 - **Compliance** - Documented testing simplifies audit reporting
@@ -188,13 +187,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - 🔗 LinkedIn: [linkedin.com/in/pakagronglb](https://www.linkedin.com/in/pakagronglb/)
 - 💻 GitHub: [@pakagronglb](https://github.com/pakagronglb)
-- 📧 Email: Available via LinkedIn
+- 📧 Email: pakagrong@thewhitehatlab.com
 
 ***
 
 ## 📚 References
 
-This checklist is based on current industry research, frameworks, and best practices documented in the [References](Red-TSA-Checklist.pdf) section of the complete guide.[1]
+This checklist is based on current industry research, frameworks, and best practices documented in the [References](Red-TSA-Checklist.pdf) section of the complete guide.
 
 ***
 
